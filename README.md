@@ -1,2 +1,3 @@
 # all_bugs
-全是bug
+全是bug6
+
